@@ -1,6 +1,6 @@
 # Mini Calculator
 
-A simple command-line calculator built using Python.
+A simple command-line calculator built using Python. Version 2 includes an improved user interface.
 
 ## Features
 - Addition
